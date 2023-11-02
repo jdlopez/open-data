@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "code": "01",
+            "dir2": "01",
+            "name": "Andalucía                                         ",
+            "rcp": "AN"
+        },
+        {
+            "code": "02",
+            "dir2": "02",
+            "name": "Aragón                                            ",
+            "rcp": "AR"
+        },
+        {
+            "code": "03",
+            "dir2": "03",
+            "name": "Principado de Asturias                            ",
+            "rcp": "AS"
+        },
+        {
+            "code": "04",
+            "dir2": "04",
+            "name": "Illes Balears                                     ",
+            "rcp": "IB"
+        },
+        {
+            "code": "05",
+            "dir2": "05",
+            "name": "Canarias                                          ",
+            "rcp": "IC"
+        },
+        {
+            "code": "06",
+            "dir2": "06",
+            "name": "Cantabria                                         ",
+            "rcp": "CN"
+        },
+        {
+            "code": "07",
+            "dir2": "07",
+            "name": "Castilla y León                                   ",
+            "rcp": "CL"
+        },
+        {
+            "code": "08",
+            "dir2": "08",
+            "name": "Castilla-La Mancha                                ",
+            "rcp": "CM"
+        },
+        {
+            "code": "09",
+            "dir2": "09",
+            "name": "Cataluña                                          ",
+            "rcp": "CT"
+        },
+        {
+            "code": "10",
+            "dir2": "10",
+            "name": "Comunitat Valenciana                              ",
+            "rcp": "CV"
+        },
+        {
+            "code": "11",
+            "dir2": "11",
+            "name": "Extremadura                                       ",
+            "rcp": "EX"
+        },
+        {
+            "code": "12",
+            "dir2": "12",
+            "name": "Galicia                                           ",
+            "rcp": "GA"
+        },
+        {
+            "code": "13",
+            "dir2": "13",
+            "name": "Comunidad de Madrid                               ",
+            "rcp": "MD"
+        },
+        {
+            "code": "14",
+            "dir2": "14",
+            "name": "Región de Murcia                                  ",
+            "rcp": "MU"
+        },
+        {
+            "code": "15",
+            "dir2": "15",
+            "name": "Comunidad Foral de Navarra                        ",
+            "rcp": "NA"
+        },
+        {
+            "code": "16",
+            "dir2": "16",
+            "name": "País Vasco                                        ",
+            "rcp": "PV"
+        },
+        {
+            "code": "17",
+            "dir2": "17",
+            "name": "La Rioja                                          ",
+            "rcp": "LR"
+        },
+        {
+            "code": "18",
+            "dir2": "51",
+            "name": "Ciudad Autónoma de Ceuta                          ",
+            "rcp": "CE"
+        },
+        {
+            "code": "19",
+            "dir2": "52",
+            "name": "Ciudad Autónoma de Melilla                        ",
+            "rcp": "ME"
+        }
+    ],
+    "description": "Relación de comunidades y ciudades autónomas con sus códigos. https://www.ine.es/daco/daco42/codmun/cod_ccaa.htm",
+    "lastUpdated": "2023-11-02T23:44:00.0878085",
+    "name": "comunidades-autonomas",
+    "source": "INE",
+    "url": "https://raw.githubusercontent.com/jdlopez/open-data/main/data/spanish/ccaa.json",
+    "version": "v1.0.0.0"
+}

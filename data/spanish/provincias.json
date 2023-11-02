@@ -1,0 +1,270 @@
+{
+    "data": [
+        {
+            "ccaaCode": "16",
+            "code": "01",
+            "name": "Álava                                             "
+        },
+        {
+            "ccaaCode": "08",
+            "code": "02",
+            "name": "Albacete                                          "
+        },
+        {
+            "ccaaCode": "10",
+            "code": "03",
+            "name": "Alacant/Alicante                                  "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "04",
+            "name": "Almería                                           "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "05",
+            "name": "Ávila                                             "
+        },
+        {
+            "ccaaCode": "11",
+            "code": "06",
+            "name": "Badajoz                                           "
+        },
+        {
+            "ccaaCode": "04",
+            "code": "07",
+            "name": "Illes Balears                                     "
+        },
+        {
+            "ccaaCode": "09",
+            "code": "08",
+            "name": "Barcelona                                         "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "09",
+            "name": "Burgos                                            "
+        },
+        {
+            "ccaaCode": "11",
+            "code": "10",
+            "name": "Cáceres                                           "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "11",
+            "name": "Cádiz                                             "
+        },
+        {
+            "ccaaCode": "10",
+            "code": "12",
+            "name": "Castelló/Castellón                                "
+        },
+        {
+            "ccaaCode": "08",
+            "code": "13",
+            "name": "Ciudad Real                                       "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "14",
+            "name": "Córdoba                                           "
+        },
+        {
+            "ccaaCode": "12",
+            "code": "15",
+            "name": "Coruña, A                                         "
+        },
+        {
+            "ccaaCode": "08",
+            "code": "16",
+            "name": "Cuenca                                            "
+        },
+        {
+            "ccaaCode": "09",
+            "code": "17",
+            "name": "Girona                                            "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "18",
+            "name": "Granada                                           "
+        },
+        {
+            "ccaaCode": "08",
+            "code": "19",
+            "name": "Guadalajara                                       "
+        },
+        {
+            "ccaaCode": "16",
+            "code": "20",
+            "name": "Guipúzcoa                                         "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "21",
+            "name": "Huelva                                            "
+        },
+        {
+            "ccaaCode": "02",
+            "code": "22",
+            "name": "Huesca                                            "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "23",
+            "name": "Jaén                                              "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "24",
+            "name": "León                                              "
+        },
+        {
+            "ccaaCode": "09",
+            "code": "25",
+            "name": "Lleida                                            "
+        },
+        {
+            "ccaaCode": "17",
+            "code": "26",
+            "name": "Rioja, La                                         "
+        },
+        {
+            "ccaaCode": "12",
+            "code": "27",
+            "name": "Lugo                                              "
+        },
+        {
+            "ccaaCode": "13",
+            "code": "28",
+            "name": "Madrid                                            "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "29",
+            "name": "Málaga                                            "
+        },
+        {
+            "ccaaCode": "14",
+            "code": "30",
+            "name": "Murcia                                            "
+        },
+        {
+            "ccaaCode": "15",
+            "code": "31",
+            "name": "Navarra                                           "
+        },
+        {
+            "ccaaCode": "12",
+            "code": "32",
+            "name": "Ourense                                           "
+        },
+        {
+            "ccaaCode": "03",
+            "code": "33",
+            "name": "Asturias                                          "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "34",
+            "name": "Palencia                                          "
+        },
+        {
+            "ccaaCode": "05",
+            "code": "35",
+            "name": "Palmas, Las                                       "
+        },
+        {
+            "ccaaCode": "12",
+            "code": "36",
+            "name": "Pontevedra                                        "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "37",
+            "name": "Salamanca                                         "
+        },
+        {
+            "ccaaCode": "05",
+            "code": "38",
+            "name": "Santa Cruz de Tenerife                            "
+        },
+        {
+            "ccaaCode": "06",
+            "code": "39",
+            "name": "Cantabria                                         "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "40",
+            "name": "Segovia                                           "
+        },
+        {
+            "ccaaCode": "01",
+            "code": "41",
+            "name": "Sevilla                                           "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "42",
+            "name": "Soria                                             "
+        },
+        {
+            "ccaaCode": "09",
+            "code": "43",
+            "name": "Tarragona                                         "
+        },
+        {
+            "ccaaCode": "02",
+            "code": "44",
+            "name": "Teruel                                            "
+        },
+        {
+            "ccaaCode": "08",
+            "code": "45",
+            "name": "Toledo                                            "
+        },
+        {
+            "ccaaCode": "10",
+            "code": "46",
+            "name": "València/Valencia                                 "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "47",
+            "name": "Valladolid                                        "
+        },
+        {
+            "ccaaCode": "16",
+            "code": "48",
+            "name": "Vizcaya                                           "
+        },
+        {
+            "ccaaCode": "07",
+            "code": "49",
+            "name": "Zamora                                            "
+        },
+        {
+            "ccaaCode": "02",
+            "code": "50",
+            "name": "Zaragoza                                          "
+        },
+        {
+            "ccaaCode": "18",
+            "code": "51",
+            "name": "Ceuta                                             "
+        },
+        {
+            "ccaaCode": "19",
+            "code": "52",
+            "name": "Melilla                                           "
+        }
+    ],
+    "description": "Relación de provincias con sus códigos. https://www.ine.es/daco/daco42/codmun/cod_provincia.htm",
+    "lastUpdated": "2023-11-02T23:38:00.6028842",
+    "name": "provincias",
+    "source": "INE",
+    "url": "https://raw.githubusercontent.com/jdlopez/open-data/main/data/spanish/provincias.json",
+    "version": "v1.0.0.0"
+}

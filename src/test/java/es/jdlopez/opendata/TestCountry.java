@@ -2,21 +2,18 @@ package es.jdlopez.opendata;
 
 import es.jdlopez.opendata.domain.CodeList;
 import es.jdlopez.opendata.domain.Country;
-import jakarta.json.bind.Jsonb;
-import jakarta.json.bind.JsonbBuilder;
-import jakarta.json.bind.JsonbConfig;
+import es.jdlopez.opendata.utils.TestUtils;
 
-import java.io.FileWriter;
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Locale;
 
+import static es.jdlopez.opendata.utils.TestUtils.URL_OPENDATA_PREFIX;
+
 public class TestCountry {
-    private static final String PREFIX = "https://raw.githubusercontent.com/jdlopez/open-data/main/";
 
     public static void main(String[] args) throws IOException {
         Locale.setDefault(Locale.ENGLISH);
@@ -40,19 +37,12 @@ public class TestCountry {
         country.setName("countries");
         country.setDescription("ISO 3166. Country Codes. The International Standard for country codes and codes for their subdivisions");
         country.setVersion("v1.0.0");
+        country.setSource("jvm locales");
         country.setLastUpdated(LocalDateTime.now());
-        country.setUrl(new URL(PREFIX + "data/country_en.json"));
+        country.setUrl(new URL(TestUtils.URL_OPENDATA_PREFIX + "data/country_en.json"));
         country.setData(outList);
-        JsonbConfig config = new JsonbConfig()
-                .withNullValues(true)
-                .withFormatting(true);
 
-        Jsonb jsonb = JsonbBuilder.create(config);
-
-        String result = jsonb.toJson(country);
-        FileWriter fw = new FileWriter("./data/country_en.json");
-        fw.write(result);
-        fw.close();
+        TestUtils.writeToFile("./data/country_en.json", country);
 
     }
 }

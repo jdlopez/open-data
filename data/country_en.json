@@ -1219,6 +1219,7 @@
     "description": "ISO 3166. Country Codes. The International Standard for country codes and codes for their subdivisions",
     "lastUpdated": "2023-11-02T00:52:57.7621865",
     "name": "countries",
+    "source": "jvm locales",
     "url": "https://raw.githubusercontent.com/jdlopez/open-data/main/data/country_en.json",
     "version": "v1.0.0"
 }

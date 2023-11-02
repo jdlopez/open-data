@@ -8,3 +8,11 @@ https://docs.oasis-open.org/codelist/genericode/doc/oasis-code-list-representati
 Data Set (non-trivial ?)
 
 https://docs.oasis-open.org/ubl/UBL-2.3.html
+
+## Sources:
+
+## Tech
+
+https://github.com/dhatim/fastexcel
+
+https://jsoup.org/
