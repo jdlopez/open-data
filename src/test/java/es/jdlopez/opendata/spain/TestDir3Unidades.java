@@ -158,19 +158,19 @@ public class TestDir3Unidades {
                 // 2 lines of headers
                 rows.skip(SKIP_ROWS).forEach(r -> {
                     UnidadOrganica u = new UnidadOrganica(
-                            safeString( r.getCellText(COL_CODIGO) ),
-                            safeString( r.getCellText(COL_NOMBRE) ),
-                            safeInteger( r.getCellText(COL_NIVELADMON) ),
-                            safeString( r.getCellText(COL_TIPO) ),
-                            safeInteger( r.getCellText(COL_NIVELJERARQUICO)),
+                            TestUtils.safeString( r.getCellText(COL_CODIGO) ),
+                            TestUtils.safeString( r.getCellText(COL_NOMBRE) ),
+                            TestUtils.safeInteger( r.getCellText(COL_NIVELADMON) ),
+                            TestUtils.safeString( r.getCellText(COL_TIPO) ),
+                            TestUtils.safeInteger( r.getCellText(COL_NIVELJERARQUICO)),
                             conProvincia?r.getCellText(COL_CODPROVINCIACOMPETENCIA):null, // provincia
-                            safeString( r.getCellText(despProv + COL_UNIDADSUPERIOR) ),
-                            safeString( r.getCellText(despProv + COL_UNIDADRAIZ) ),
-                            safeBoolSN( r.getCellText(despProv + COL_ESDERECHOPUBLICO) ),
-                            safeString( r.getCellText(despProv + COL_CODUNIDADDERECHOPUBLICO) ),
-                            safeString( r.getCellText(despProv + COL_ESTADO) ),
-                            safeLocalDate( r.getCellText(despProv + COL_FECHAVIGENCIA) ),
-                            safeString( r.getCellText(despProv + COL_NIF) )
+                            TestUtils.safeString( r.getCellText(despProv + COL_UNIDADSUPERIOR) ),
+                            TestUtils.safeString( r.getCellText(despProv + COL_UNIDADRAIZ) ),
+                            TestUtils.safeBoolSN( r.getCellText(despProv + COL_ESDERECHOPUBLICO) ),
+                            TestUtils.safeString( r.getCellText(despProv + COL_CODUNIDADDERECHOPUBLICO) ),
+                            TestUtils.safeString( r.getCellText(despProv + COL_ESTADO) ),
+                            TestUtils.safeLocalDate( r.getCellText(despProv + COL_FECHAVIGENCIA) ),
+                            TestUtils.safeString( r.getCellText(despProv + COL_NIF) )
                     );
                     if (u.getCode() != null) // not empty
                         cl.getData().add(u);
@@ -193,47 +193,5 @@ public class TestDir3Unidades {
 
     }
 
-    public static Integer safeBigDecimalToInteger(BigDecimal bd) {
-        return bd == null?null:bd.intValue();
-    }
-
-    public static Integer safeInteger(String value) {
-        if (value != null) {
-            try {
-                return Integer.parseInt(value);
-            } catch (NumberFormatException e) {
-            }
-        }
-        return null;
-    }
-
-    public static Boolean safeBoolSN(String siNoText) {
-        return "S".equalsIgnoreCase( siNoText );
-    }
-
-    public static String safeString(String value) {
-        if (value != null) {
-            value = value.trim();
-            if ("".equals(value))
-                return null;
-            else
-                return value;
-        }
-        return null;
-    }
-
-    private static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-    public static LocalDate safeLocalDate(String dateString) {
-        dateString = safeString(dateString);
-        if (dateString != null) {
-            try {
-                return LocalDate.parse(dateString, formatter);
-            } catch (DateTimeParseException e) {
-                // fixed? today?
-                return LocalDate.ofYearDay(1970, 1);
-            }
-        }
-        return null;
-    }
 
 }

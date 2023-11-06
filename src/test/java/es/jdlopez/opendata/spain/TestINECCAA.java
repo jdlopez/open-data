@@ -40,10 +40,10 @@ public class TestINECCAA {
                 // 2 lines of headers
                 rows.skip(SKIP_ROWS).forEach(r -> {
                     ComunidadAutonoma itm = new ComunidadAutonoma(
-                            r.getCellText(COL_CODIGO),
-                            r.getCellText(COL_NOMBRE),
-                            r.getCellText(COL_RCP),
-                            r.getCellText(COL_DIR2)
+                            TestUtils.safeString( r.getCellText(COL_CODIGO) ),
+                            TestUtils.safeString( r.getCellText(COL_NOMBRE) ),
+                            TestUtils.safeString( r.getCellText(COL_RCP) ),
+                            TestUtils.safeString( r.getCellText(COL_DIR2) )
                     );
                     cl.getData().add(itm);
                 });

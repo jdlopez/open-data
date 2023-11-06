@@ -99,9 +99,9 @@ public class TestINEProvincias {
                 // 2 lines of headers
                 rows.skip(SKIP_ROWS).forEach(r -> {
                     Provincia provincia = new Provincia(
-                            r.getCellText(COL_CODIGO),
-                            r.getCellText(COL_NOMBRE),
-                            r.getCellText(COL_CA)
+                            TestUtils.safeString( r.getCellText(COL_CODIGO) ),
+                            TestUtils.safeString( r.getCellText(COL_NOMBRE) ),
+                            TestUtils.safeString( r.getCellText(COL_CA) )
                     );
                     cl.getData().add(provincia);
                 });
