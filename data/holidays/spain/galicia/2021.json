@@ -1,0 +1,54 @@
+[
+    {
+        "country": "ES",
+        "name": "01/01/2021"
+    },
+    {
+        "country": "ES",
+        "name": "06/01/2021",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "19/03/2021",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "01/04/2021",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "02/04/2021"
+    },
+    {
+        "country": "ES",
+        "name": "01/05/2021"
+    },
+    {
+        "country": "ES",
+        "name": "17/05/2021",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "12/10/2021"
+    },
+    {
+        "country": "ES",
+        "name": "01/11/2021"
+    },
+    {
+        "country": "ES",
+        "name": "06/12/2021"
+    },
+    {
+        "country": "ES",
+        "name": "08/12/2021"
+    },
+    {
+        "country": "ES",
+        "name": "25/12/2021"
+    }
+]

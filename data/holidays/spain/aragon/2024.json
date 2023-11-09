@@ -1,0 +1,74 @@
+[
+    {
+        "country": "ES",
+        "date": "2024-03-29",
+        "name": "Viernes Santo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-01-01",
+        "name": "Año nuevo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-08-15",
+        "name": "Asunción de la Virgen",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-11-01",
+        "name": "Todos los Santos",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-01-06",
+        "name": "Epifania del Señor",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-12-06",
+        "name": "Día de la Constitución Española",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-12-09",
+        "name": "En sustitución del día 8 domingo Inmaculada Concepción",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-04-23",
+        "name": "San Jorge Día de Aragón",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-12-25",
+        "name": "Natividad del Señor",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-05-01",
+        "name": "Fiesta del Trabajo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-10-12",
+        "name": "Fiesta Nacional de España",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2024-03-28",
+        "name": "Jueves Santo",
+        "region": "02"
+    }
+]

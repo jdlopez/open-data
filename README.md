@@ -19,12 +19,7 @@ https://docs.oasis-open.org/ubl/UBL-2.3.html
 
 ## Sources:
 
-* Language and Country: java jvm Locale
-
-_Spanish_
-
-* https://www.ine.es/daco/daco42/codmun/codmunmapa.htm
-* https://administracionelectronica.gob.es/ctt/dir3
+[sources.md](sources.md)
 
 ## Tech
 

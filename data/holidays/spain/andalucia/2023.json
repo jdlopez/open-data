@@ -1,0 +1,62 @@
+[
+    {
+        "country": "ES",
+        "name": "Año Nuevo (por coincidir en domingo se pasa al lunes)",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Fiesta del Trabajo ",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Viernes Santo",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Asunción de la Virgen",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Día de Andalucía",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Fiesta Nacional de España",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Todos los Santos",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Jueves Santo",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Epifanía del Señor",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Inmaculada Concepción",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Día de la Constitución Española",
+        "region": "01"
+    },
+    {
+        "country": "ES",
+        "name": "Natividad del Señor ",
+        "region": "01"
+    }
+]

@@ -1,0 +1,3805 @@
+[
+    {
+        "country": "ES",
+        "name": "06/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "07/04/23"
+    },
+    {
+        "country": "ES",
+        "name": "01/05/23"
+    },
+    {
+        "country": "ES",
+        "name": "17/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "25/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "name": "15/08/23"
+    },
+    {
+        "country": "ES",
+        "name": "12/10/23"
+    },
+    {
+        "country": "ES",
+        "name": "01/11/23"
+    },
+    {
+        "country": "ES",
+        "name": "06/12/23"
+    },
+    {
+        "country": "ES",
+        "name": "08/12/23"
+    },
+    {
+        "country": "ES",
+        "name": "25/12/23"
+    },
+    {
+        "country": "ES",
+        "municipality": "Abegondo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Abegondo",
+        "name": "25/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ames",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ames",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Aranga",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Aranga",
+        "name": "03/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ares",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ares",
+        "name": "30/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arteixo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arteixo",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arzúa",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arzúa",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baña (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baña (A)",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bergondo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bergondo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Betanzos",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Betanzos",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boimorto",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boimorto",
+        "name": "04/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boiro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boiro",
+        "name": "31/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boqueixón",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boqueixón",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Brión",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Brión",
+        "name": "27/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cabana de Bergantiños",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cabana de Bergantiños",
+        "name": "01/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cabanas",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cabanas",
+        "name": "30/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Camariñas",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Camariñas",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cambre",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cambre",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Capela (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Capela (A)",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballo",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carnota",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carnota",
+        "name": "13/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carral",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carral",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cedeira",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cedeira",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cee",
+        "name": "16/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cee",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerceda",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerceda",
+        "name": "23/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerdido",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerdido",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coirós",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coirós",
+        "name": "08/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Corcubión",
+        "name": "25/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Corcubión",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coristanco",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coristanco",
+        "name": "19/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coruña (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coruña (A)",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Culleredo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Culleredo",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Curtis",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Curtis",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dodro",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dodro",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dumbría",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dumbría",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fene",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fene",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ferrol",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ferrol",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fisterra",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fisterra",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Frades",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Frades",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Irixoa",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Irixoa",
+        "name": "10/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laxe",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laxe",
+        "name": "17/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laracha (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laracha (A)",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lousame",
+        "name": "25/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lousame",
+        "name": "10/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Malpica de Bergantiños",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Malpica de Bergantiños",
+        "name": "25/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mañón",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mañón",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mazaricos",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mazaricos",
+        "name": "07/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Melide",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Melide",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mesía",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mesía",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Miño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Miño",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moeche",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moeche",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monfero",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monfero",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mugardos",
+        "name": "07/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mugardos",
+        "name": "30/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muxía",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muxía",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muros",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muros",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Narón",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Narón",
+        "name": "23/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Neda",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Neda",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Negreira",
+        "name": "07/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Negreira",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Noia",
+        "name": "24/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Noia",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oleiros",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oleiros",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ordes",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ordes",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oroso",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oroso",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ortigueira",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ortigueira",
+        "name": "29/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Outes",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Outes",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paderne",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paderne",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Padrón",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Padrón",
+        "name": "06/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pino (O)",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pino (O)",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra do Caramiñal (A)",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra do Caramiñal (A)",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponteceso",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponteceso",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontedeume",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontedeume",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "As Pontes de García Rodríguez",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "As Pontes de García Rodríguez",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porto do Son",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porto do Son",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rianxo",
+        "name": "14/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rianxo",
+        "name": "15/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribeira",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribeira",
+        "name": "12/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rois",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rois",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sada",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sada",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Sadurniño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Sadurniño",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santa Comba",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santa Comba",
+        "name": "30/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santiago de Compostela",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santiago de Compostela",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santiso",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Santiso",
+        "name": "15/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sobrado",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sobrado",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Somozas (As)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Somozas (As)",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Teo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Teo",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Toques",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Toques",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tordoia",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tordoia",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Touro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Touro",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trazo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trazo",
+        "name": "21/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valdoviño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valdoviño",
+        "name": "17/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Val do Dubra",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Val do Dubra",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vedra",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vedra",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilasantar",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilasantar",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilarmaior",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilarmaior",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vimianzo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vimianzo",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Zas",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Zas",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cariño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cariño",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oza-Cesuras",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oza-Cesuras",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Abadín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Abadín",
+        "name": "27/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Alfoz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Alfoz",
+        "name": "31/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Antas de Ulla",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Antas de Ulla",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baleira",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baleira",
+        "name": "11/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barreiros",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barreiros",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Becerreá",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Becerreá",
+        "name": "14/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Begonte",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Begonte",
+        "name": "30/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bóveda",
+        "name": "01/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bóveda",
+        "name": "15/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballedo",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballedo",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castro de Rei",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castro de Rei",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castroverde",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castroverde",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cervantes",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cervantes",
+        "name": "13/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cervo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cervo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Corgo (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Corgo (O)",
+        "name": "05/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cospeito",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cospeito",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Chantada",
+        "name": "29/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Chantada",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Folgoso do Courel",
+        "name": "18/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Folgoso do Courel",
+        "name": "07/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fonsagrada (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fonsagrada (A)",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Foz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Foz",
+        "name": "10/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Friol",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Friol",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xermade",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xermade",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guitiriz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guitiriz",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guntín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guntín",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Incio (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Incio (O)",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xove",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xove",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Láncara",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Láncara",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lourenzá",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lourenzá",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lugo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lugo",
+        "name": "05/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meira",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meira",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondoñedo",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondoñedo",
+        "name": "18/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monforte de Lemos",
+        "name": "11/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monforte de Lemos",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monterroso",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monterroso",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muras",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muras",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Navia de Suarna",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Navia de Suarna",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Negueira de Muñiz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Negueira de Muñiz",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nogais (As)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nogais (As)",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ourol",
+        "name": "12/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ourol",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Outeiro de Rei",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Outeiro de Rei",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Palas de Rei",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Palas de Rei",
+        "name": "14/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pantón",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pantón",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paradela",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paradela",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Páramo (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Páramo (O)",
+        "name": "09/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pastoriza (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pastoriza (A)",
+        "name": "18/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pedrafita do Cebreiro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pedrafita do Cebreiro",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pol",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pol",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra do Brollón (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra do Brollón (A)",
+        "name": "12/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontenova (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontenova (A)",
+        "name": "09/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Portomarín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Portomarín",
+        "name": "04/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Quiroga",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Quiroga",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadeo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadeo",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribas de Sil",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribas de Sil",
+        "name": "30/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribeira de Piquín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribeira de Piquín",
+        "name": "24/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Riotorto",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Riotorto",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Samos",
+        "name": "09/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Samos",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rábade",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rábade",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sarria",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sarria",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Saviñao (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Saviñao (O)",
+        "name": "08/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sober",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sober",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Taboada",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Taboada",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trabada",
+        "name": "25/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trabada",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Triacastela",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Triacastela",
+        "name": "17/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valadouro (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valadouro (O)",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vicedo (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vicedo (O)",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilalba",
+        "name": "31/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilalba",
+        "name": "01/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Viveiro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Viveiro",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baralla",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baralla",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Burela",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Burela",
+        "name": "05/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Allariz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Allariz",
+        "name": "09/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Amoeiro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Amoeiro",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arnoia (A)",
+        "name": "22/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arnoia (A)",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Avión",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Avión",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baltar",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baltar",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bande",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bande",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baños de Molgas",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baños de Molgas",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barbadás",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barbadás",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barco de Valdeorras (O)",
+        "name": "22/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barco de Valdeorras (O)",
+        "name": "14/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Beade",
+        "name": "03/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Beade",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Beariz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Beariz",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Blancos (Os)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Blancos (Os)",
+        "name": "15/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boborás",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Boborás",
+        "name": "19/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bola (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bola (A)",
+        "name": "02/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bolo (O)",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bolo (O)",
+        "name": "13/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Calvos de Randín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Calvos de Randín",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballeda de Valdeorras",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballeda de Valdeorras",
+        "name": "17/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballeda de Avia",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballeda de Avia",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballiño (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Carballiño (O)",
+        "name": "18/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cartelle",
+        "name": "21/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cartelle",
+        "name": "22/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castrelo do Val",
+        "name": "17/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castrelo do Val",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castrelo de Miño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castrelo de Miño",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castro Caldelas",
+        "name": "20/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Castro Caldelas",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Celanova",
+        "name": "01/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Celanova",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cenlle",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cenlle",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coles",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Coles",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cortegada",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cortegada",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cualedro",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cualedro",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Chandrexa de Queixa",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Chandrexa de Queixa",
+        "name": "04/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Entrimo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Entrimo",
+        "name": "02/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Esgos",
+        "name": "02/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Esgos",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xinzo de Limia",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xinzo de Limia",
+        "name": "18/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gomesende",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gomesende",
+        "name": "13/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gudiña (A)",
+        "name": "24/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gudiña (A)",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Irixo (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Irixo (O)",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xunqueira de Ambía",
+        "name": "03/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xunqueira de Ambía",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xunqueira de Espadanedo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Xunqueira de Espadanedo",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Larouco",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Larouco",
+        "name": "13/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laza",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Laza",
+        "name": "03/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Leiro",
+        "name": "03/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Leiro",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lobeira",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lobeira",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lobios",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lobios",
+        "name": "11/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Maceda",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Maceda",
+        "name": "08/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Manzaneda",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Manzaneda",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Maside",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Maside",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Melón",
+        "name": "03/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Melón",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Merca (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Merca (A)",
+        "name": "05/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mezquita (A)",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mezquita (A)",
+        "name": "10/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Montederramo",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Montederramo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monterrei",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Monterrei",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muíños",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Muíños",
+        "name": "30/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nogueira de Ramuín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nogueira de Ramuín",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oímbra",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oímbra",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ourense",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ourense",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paderne de Allariz",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Paderne de Allariz",
+        "name": "10/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Padrenda",
+        "name": "23/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Padrenda",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Parada de Sil",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Parada de Sil",
+        "name": "31/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pereiro de Aguiar (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pereiro de Aguiar (O)",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Peroxa (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Peroxa (A)",
+        "name": "13/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Petín",
+        "name": "17/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Petín",
+        "name": "26/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Piñor",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Piñor",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porqueira",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porqueira",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra de Trives (A)",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pobra de Trives (A)",
+        "name": "14/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontedeva",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontedeva",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Punxín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Punxín",
+        "name": "17/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Quintela de Leirado",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Quintela de Leirado",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rairiz de Veiga",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rairiz de Veiga",
+        "name": "07/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ramirás",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ramirás",
+        "name": "07/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadavia",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadavia",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Xoán de Río",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Xoán de Río",
+        "name": "23/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Riós",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Riós",
+        "name": "15/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rúa (A)",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rúa (A)",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rubiá",
+        "name": "18/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rubiá",
+        "name": "24/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Amaro",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Amaro",
+        "name": "15/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Cibrao das Viñas",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Cibrao das Viñas",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Cristovo de Cea",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "San Cristovo de Cea",
+        "name": "25/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sandiás",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sandiás",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sarreaus",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sarreaus",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Taboadela",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Taboadela",
+        "name": "07/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Teixeira (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Teixeira (A)",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Toén",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Toén",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trasmiras",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Trasmiras",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Veiga (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Veiga (A)",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Verea",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Verea",
+        "name": "13/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Verín",
+        "name": "17/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Verín",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Viana do Bolo",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Viana do Bolo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilamarín",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilamarín",
+        "name": "13/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilamartín de Valdeorras",
+        "name": "24/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilamartín de Valdeorras",
+        "name": "21/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilar de Barrio",
+        "name": "01/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilar de Barrio",
+        "name": "13/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilar de Santos",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilar de Santos",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilardevós",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilardevós",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilariño de Conso",
+        "name": "20/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilariño de Conso",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arbo",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Arbo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barro",
+        "name": "16/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Barro",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baiona",
+        "name": "03/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Baiona",
+        "name": "26/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bueu",
+        "name": "23/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Bueu",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Caldas de Reis",
+        "name": "23/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Caldas de Reis",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cambados",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cambados",
+        "name": "18/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Campo Lameiro",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Campo Lameiro",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cangas",
+        "name": "31/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cangas",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cañiza (A)",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cañiza (A)",
+        "name": "21/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Catoira",
+        "name": "10/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Catoira",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Covelo",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Covelo",
+        "name": "13/10/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Crecente",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Crecente",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cuntis",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cuntis",
+        "name": "18/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dozón",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Dozón",
+        "name": "04/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Estrada (A)",
+        "name": "26/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Estrada (A)",
+        "name": "27/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Forcarei",
+        "name": "28/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Forcarei",
+        "name": "10/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fornelos de Montes",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Fornelos de Montes",
+        "name": "10/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Agolada",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Agolada",
+        "name": "30/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gondomar",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Gondomar",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Grove (O)",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Grove (O)",
+        "name": "10/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guarda (A)",
+        "name": "14/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Guarda (A)",
+        "name": "23/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lalín",
+        "name": "25/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lalín",
+        "name": "26/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lama (A)",
+        "name": "27/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Lama (A)",
+        "name": "04/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Marín",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Marín",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meaño",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meaño",
+        "name": "13/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meis",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Meis",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moaña",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moaña",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondariz",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondariz",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondariz-Balneario",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mondariz-Balneario",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moraña",
+        "name": "19/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Moraña",
+        "name": "13/12/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mos",
+        "name": "13/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Mos",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Neves (As)",
+        "name": "31/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Neves (As)",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nigrán",
+        "name": "29/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Nigrán",
+        "name": "01/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oia",
+        "name": "29/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Oia",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pazos de Borbén",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pazos de Borbén",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontevedra",
+        "name": "22/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontevedra",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porriño (O)",
+        "name": "11/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Porriño (O)",
+        "name": "25/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Portas",
+        "name": "21/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Portas",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Poio",
+        "name": "24/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Poio",
+        "name": "17/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponteareas",
+        "name": "12/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponteareas",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponte Caldelas",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ponte Caldelas",
+        "name": "30/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontecesures",
+        "name": "07/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Pontecesures",
+        "name": "03/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Redondela",
+        "name": "17/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Redondela",
+        "name": "08/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadumia",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Ribadumia",
+        "name": "02/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rodeiro",
+        "name": "12/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rodeiro",
+        "name": "08/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rosal (O)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Rosal (O)",
+        "name": "29/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Salceda de Caselas",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Salceda de Caselas",
+        "name": "17/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Salvaterra de Miño",
+        "name": "12/06/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Salvaterra de Miño",
+        "name": "10/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sanxenxo",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Sanxenxo",
+        "name": "04/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Silleda",
+        "name": "07/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Silleda",
+        "name": "21/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Soutomaior",
+        "name": "10/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Soutomaior",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tomiño",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tomiño",
+        "name": "11/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tui",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Tui",
+        "name": "17/04/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valga",
+        "name": "03/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Valga",
+        "name": "24/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vigo",
+        "name": "28/03/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vigo",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilaboa",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilaboa",
+        "name": "11/11/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vila de Cruces",
+        "name": "07/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vila de Cruces",
+        "name": "08/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilagarcía de Arousa",
+        "name": "22/05/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilagarcía de Arousa",
+        "name": "16/08/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilanova de Arousa",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Vilanova de Arousa",
+        "name": "16/09/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Illa de Arousa (A)",
+        "name": "07/01/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Illa de Arousa (A)",
+        "name": "21/02/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerdedo-Cotobade",
+        "name": "31/07/23",
+        "region": "12"
+    },
+    {
+        "country": "ES",
+        "municipality": "Cerdedo-Cotobade",
+        "name": "21/08/23",
+        "region": "12"
+    }
+]

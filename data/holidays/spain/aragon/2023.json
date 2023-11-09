@@ -1,0 +1,74 @@
+[
+    {
+        "country": "ES",
+        "date": "2023-01-06",
+        "name": "Epifanía del Señor",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-07",
+        "name": "Viernes Santo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-06",
+        "name": "Día de la Constitución Española",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-06",
+        "name": "Jueves Santo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-08-15",
+        "name": "Asunción de la Virgen",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-05-01",
+        "name": "Fiesta del Trabajo",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-08",
+        "name": "Inmaculada Concepción",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-25",
+        "name": "Natividad del Señor.",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-10-12",
+        "name": "Fiesta Nacional de España",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-24",
+        "name": "en sustitución de 23 de abril. domingo. San Jorge. Día de Aragó",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-11-01",
+        "name": "Todos los Santos",
+        "region": "02"
+    },
+    {
+        "country": "ES",
+        "date": "2023-01-02",
+        "name": "en sustitución del 1 de enero. domingo. Año Nuevo",
+        "region": "02"
+    }
+]
