@@ -1,0 +1,74 @@
+[
+    {
+        "country": "ES",
+        "date": "2023-01-06",
+        "name": "Epifanía del Señor / Errege Magoen eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-06",
+        "name": "Jueves Santo / Ostegun Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-07",
+        "name": "Viernes Santo / Ostiral Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-04-10",
+        "name": "Lunes de Pascua de Resurrección / Pazko Astelehena",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-05-01",
+        "name": "Fiesta del trabajador / Langileen eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-07-25",
+        "name": "Santiago Apóstol / Santiago Apostolua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-08-15",
+        "name": "Asunción de la Virgen / Ama Birjinaren Jasokundea",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-10-12",
+        "name": "Fiesta Nacional / Espainiako Jai Nazionala",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-11-01",
+        "name": "Todos los Santos / Santu Guztien Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-06",
+        "name": "Día de la Constitución / Konstituzio Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-08",
+        "name": "Inmaculada Concepción / Andre Maria Sortzez Garbiaren eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2023-12-25",
+        "name": "Natividad del Señor / Eguberri eguna",
+        "region": "16"
+    }
+]

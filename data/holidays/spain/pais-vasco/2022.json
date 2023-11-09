@@ -1,0 +1,74 @@
+[
+    {
+        "country": "ES",
+        "date": "2022-01-01",
+        "name": "Año nuevo / Urteberri eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-01-06",
+        "name": "Epifanía del Señor / Errege Magoen eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-04-14",
+        "name": "Jueves Santo / Ostegun Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-04-15",
+        "name": "Viernes Santo / Ostiral Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-04-18",
+        "name": "Lunes de Pascua de Resurrección / Pazko Astelehena",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-07-25",
+        "name": "Santiago Apóstol / Santiago Apostolua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-08-15",
+        "name": "Asunción de la Virgen / Ama Birjinaren Jasokundea",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-09-06",
+        "name": "V Centenario de la Vuelta al Mundo capitaneada por Juan Sebastián Elcano / Juan Sebastian Elkano kapitain zela munduari bira eman izanaren V. Mendeurrena",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-10-12",
+        "name": "Fiesta Nacional / Espainiako Jai Nazionala",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-11-01",
+        "name": "Todos los Santos / Santu Guztien Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-12-06",
+        "name": "Día de la Constitución / Konstituzio Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2022-12-08",
+        "name": "Inmaculada Concepción / Andre Maria Sortzez Garbiaren eguna",
+        "region": "16"
+    }
+]

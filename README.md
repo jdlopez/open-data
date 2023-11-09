@@ -6,8 +6,21 @@ You can reuse domain classes with:
     <dependency>
         <groupId>io.github.jdlopez</groupId>
         <artifactId>opendata</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </dependency>
+
+No dependencies at all
+
+## Calendar
+
+Added support for: Model and parsers for Internet Calendaring and Scheduling Objects (iCalendar)
+https://datatracker.ietf.org/doc/html/rfc5545
+
+[src/main/java/es/jdlopez/opendata/calendar](src/main/java/es/jdlopez/opendata/calendar)
+
+## Open-Data Sources :
+
+[sources.md](sources.md)
 
 Inspiration:
 
@@ -17,11 +30,8 @@ Data Set (non-trivial ?)
 
 https://docs.oasis-open.org/ubl/UBL-2.3.html
 
-## Sources:
 
-[sources.md](sources.md)
-
-## Tech
+## Used Tech
 
 https://github.com/dhatim/fastexcel
 

@@ -1,0 +1,74 @@
+[
+    {
+        "country": "ES",
+        "date": "2024-01-01",
+        "name": "Año Nuevo / Urteberri eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-06-01",
+        "name": "Epifanía del Señor / Jaunaren epifania",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-03-28",
+        "name": "Jueves Santo / Ostegun Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-03-29",
+        "name": "Viernes Santo / Ostiral Santua",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-04-01",
+        "name": "Lunes de Pascua de Resurrección / Pazko Astelehena",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-05-01",
+        "name": "Fiesta del trabajo / Langileen eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-07-25",
+        "name": "Santiago Apóstol / Santiago Apostoluaren Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-08-15",
+        "name": "Asunción de la Virgen / Ama Birjinaren Jasokundea",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-10-12",
+        "name": "Fiesta Nacional / Espainiako Jai Nazionala",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-11-01",
+        "name": "Todos los Santos / Santu Guztien Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-12-06",
+        "name": "Día de la Constitución / Konstituzio Eguna",
+        "region": "16"
+    },
+    {
+        "country": "ES",
+        "date": "2024-12-25",
+        "name": "Natividad del Señor / Eguberri eguna",
+        "region": "16"
+    }
+]

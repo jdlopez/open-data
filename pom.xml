@@ -6,7 +6,7 @@
 
     <groupId>io.github.jdlopez</groupId>
     <artifactId>opendata</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <name>OpenData Model Library</name>
     <description>Open Data model library. Contains java models for common open-data objects. Test to load them into your system</description>
