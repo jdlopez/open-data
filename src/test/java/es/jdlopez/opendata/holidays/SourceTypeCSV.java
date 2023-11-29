@@ -29,6 +29,7 @@ public class SourceTypeCSV extends SourceType {
     private DateTimeFormatter df;
     private String charSet = "UTF-8";
     private int cityColumn = -1;
+    private int regionColumn = -1;
     private int maxCols = 0;
     private String separator = ";";
 
@@ -57,6 +58,8 @@ public class SourceTypeCSV extends SourceType {
         this.charSet = charSet;
         if (cityCode != null && cityCode.startsWith("col-"))
             this.cityColumn = Integer.parseInt(cityCode.substring("col-".length()));
+        if (regionCode != null && regionCode.startsWith("col-"))
+            this.regionColumn  = Integer.parseInt(regionCode.substring("col-".length()));
         this.maxCols = Math.max(cityColumn, Math.max(colDate, Math.max(colName, colType))) + 1;
         this.separator = separator;
     }
@@ -71,7 +74,7 @@ public class SourceTypeCSV extends SourceType {
                     String[] cols = line.split(separator, maxCols);
                     String c = null, r = null, m = null;
                     c = this.countryCode;
-                    if (this.colType == -1) { // no type fixed type
+                    if (this.colType == -1) { // no type -> fixed type
                         r = this.regionCode;
                         m = this.cityCode;
                     } else {
@@ -80,10 +83,16 @@ public class SourceTypeCSV extends SourceType {
                             r = null;
                             m = null;
                         } else if (v.contains(vTypeRegion)) {
-                            r = regionCode;
+                            if (regionColumn > -1)
+                                r = cols[regionColumn];
+                            else
+                                r = regionCode;
                             m = null;
                         } else if (v.contains(vTypeMunicipality)) {
-                            r = regionCode;
+                            if (regionColumn > -1)
+                                r = cols[regionColumn];
+                            else
+                                r = regionCode;
                             if (cityColumn > -1)
                                 m = cols[cityColumn];
                             else
@@ -96,9 +105,23 @@ public class SourceTypeCSV extends SourceType {
                     if (c != null)
                         ret.add(new Holiday(
                             TestUtils.safeLocalDate(cols[this.colDate], this.df, null),
-                            cols[this.colName], c, r, m)
+                            unescapeQuotes(cols[this.colName]), c, r, truncate(m, 5))
                     );
                 });
         return ret;
+    }
+
+    private String truncate(String value, int max) {
+        if (value != null && value.length() > max)
+            return value.substring(0, max);
+        else
+            return value;
+    }
+
+    private String unescapeQuotes(String value) {
+        if (value != null && value.startsWith("\""))
+            return value.substring(1, value.lastIndexOf("\""));
+        else
+            return value;
     }
 }
