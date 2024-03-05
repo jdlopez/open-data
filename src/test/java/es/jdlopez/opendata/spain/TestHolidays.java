@@ -60,7 +60,7 @@ public class TestHolidays {
     private static LinkedList<HolidaySource> buildSources() throws MalformedURLException, FileNotFoundException {
         LinkedList<HolidaySource> sources = new LinkedList<>();
 
-        sources.add( new HolidaySource("segsocial2023", "./data/holidays/spain/2023.json",
+        sources.add( new HolidaySource("segsocial2024", "./data/holidays/spain/2024.json",
                 new URL("https://www.seg-social.es/wps/PA_POINCALAB/CalendarioServlet?exportacion=CSV&tipo=1"),
                 //COD_PROV,COD_LOC,FECHA,TIPO,DESCRIPCION
                 //50,00,02-01-2023,1,"Lunes siguiente a Año Nuevo"
@@ -69,7 +69,6 @@ public class TestHolidays {
                         "ES", "col-0", "col-1",
                         "dd-MM-yyyy", "windows-1252", ","))
         );
-
         sources.add( new HolidaySource("euskad2024", "./data/holidays/spain/pais-vasco/2024.json",
                 new URL("https://opendata.euskadi.eus/contenidos/ds_eventos/calendario_laboral_2024/opendata/calendario_laboral_2024.ics"),
                 new SourceTypeICS("ES", "16", null, false, "yyyyMMdd'T'HHmmss", "CAE - EAE")
@@ -195,10 +194,8 @@ public class TestHolidays {
         );
         sources.add( new HolidaySource("galicia", "./data/holidays/spain/galicia/2017.json",
                 new URL("https://www.xunta.gal/ficheiros/abertos/calendarios/calendario_laboral_2017.csv"),
-                /*
-                    festividade do Ecce-Homo;31/07/2017;Local;Cerdedo-Cotobade;36999
-                    San Roque;21/08/2017;Local;Cerdedo-Cotobade;36999
-                 */
+                    //festividade do Ecce-Homo;31/07/2017;Local;Cerdedo-Cotobade;36999
+                    //San Roque;21/08/2017;Local;Cerdedo-Cotobade;36999
                 new SourceTypeCSV(2, 1, 0, 2,
                         "Estatal", "Autonómico", "Local",
                         "ES", "12", "col-4",
