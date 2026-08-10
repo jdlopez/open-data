@@ -7,7 +7,16 @@ _Spanish sources or Spain opendata_
 * https://www.ine.es/daco/daco42/codmun/codmunmapa.htm
 * https://administracionelectronica.gob.es/ctt/dir3
 
-Holidays:
+## Datos del INE
+
+**Clasificaciones estadísticas**
+Herramienta GESCLA: 
+CCAA: https://www.ine.es/Gescla/buscar/extraccionSinNiveles/C00500
+PROVINCIAS: https://www.ine.es/Gescla/buscar/extraccionSinNiveles/C00510
+CNAE 2025: https://www.ine.es/Gescla/buscar/estructuradaPadre/C00030
+
+
+## Holidays:
 
 * Calendarios CCAA (en PDF):
 
